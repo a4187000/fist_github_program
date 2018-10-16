@@ -1,12 +1,6 @@
 # fist_github_program
 test
-* ghgjh
-* ![123](http:google.com)
-
-> tyyjt
-
-`#include
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTYyNDkwM119
+eyJoaXN0b3J5IjpbLTQ3NDkxNzk2XX0=
 -->
